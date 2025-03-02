@@ -1,0 +1,8 @@
+ProductsData/*.json
+/product_links.json
+
+.env
+
+.idea/
+
+ProductsData/failed_links.txt
